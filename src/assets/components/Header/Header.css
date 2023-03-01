@@ -2,3 +2,6 @@
     background-color: var(--azul-escuro);
 }
 
+.header__nav {
+    display: none;
+}
