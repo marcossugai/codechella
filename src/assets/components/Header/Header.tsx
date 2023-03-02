@@ -5,6 +5,8 @@ function Header() {
         <header className="header">
             <a href="#" className='header__logo'><img src="../src/assets/img/logoCodeChella.svg"></img></a>
 
+            <a href='#' className='header__menu'><img src='../src/assets/img/menu.svg'></img></a>
+
             <nav className="header__nav">
                 <i className="fa-solid fa-bars nav__icone-menu"></i>
                 <ul className="nav__lista hidden">

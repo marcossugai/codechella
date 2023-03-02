@@ -1,7 +1,15 @@
 .header {
     background-color: var(--azul-escuro);
+    display: flex;
+    height: 128px;
+    align-items: center;
+    justify-content: center;
 }
 
 .header__nav {
     display: none;
+}
+
+.header__menu {
+    margin-left: 32px;
 }
